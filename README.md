@@ -10,7 +10,7 @@ Coding for me is so fun like that gif below
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SianTharit&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameSianTharit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SianTharit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
