@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Sian 
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 
 <!--
 **SianTharit/SianTharit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
