@@ -1,6 +1,14 @@
 ### Hi there 👋 I'm Sian 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+Coding for me is so fun like that gif below
+
+<!-- ![alt text](https://github.com/SianTharit/SianTharit/blob/master/image.jpg?raw=true) -->
+
+<img src="https://media3.giphy.com/media/MdA16VIoXKKxNE8Stk/200w.webp?cid=ecf05e47mhvmgnklc8txv6iblypwyncwnsvk1jc2spwz0g60&rid=200w.webp&ct=g" width="500" />
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SianTharit&show_icons=true&theme=radical)
 
 
 <!--
